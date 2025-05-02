@@ -1,6 +1,6 @@
 # Customer_Support_For_Financial_Services
 
-# 📊 AI Customer Support for Financial Services (Main model)
+# 📊 AI Customer Support for Financial Services
 
 An interactive Streamlit application powered by **LLaMA 3.3-70B**, designed to assist users in navigating financial documents and resolving customer queries with the help of a conversational AI assistant trained on your own uploaded PDFs.
 
