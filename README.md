@@ -6,7 +6,19 @@ An interactive Streamlit application powered by **LLaMA 3.3-70B**, designed to a
 
 ---
 
-## 🔍 Features
+## ✅ Key Features
+
+- ⚡ Instant answers for common banking questions  
+- 🏦 Covers topics like account opening, balance inquiry, interest rates  
+- 🕒 Available 24/7 to reduce human workload  
+- 💬 Friendly and easy-to-understand responses  
+- 💸 Reduces operational costs for customer service teams  
+- 🔁 Adaptive to new FAQs through periodic updates  
+- 🧠 Built using conversational AI with financial domain knowledge  
+- 📈 Designed to handle high customer volumes seamlessly  
+- 📂 Chat with multiple PDF documents uploaded by the user 
+
+## 🔍 Model Workflow
 
 - ✅ Upload and process financial service documents (PDF format)
 - ✅ Conversational AI support tailored for customer support scenarios
@@ -27,11 +39,3 @@ An interactive Streamlit application powered by **LLaMA 3.3-70B**, designed to a
 - **Environment Variables:** python-dotenv
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/financial-ai-assistant.git
-cd financial-ai-assistant
